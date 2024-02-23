@@ -22,12 +22,14 @@ Isso abrirá uma página no seu navegador com a aplicação Streamlit.
 
 Este aplicativo permite ao usuário selecionar um estado e o tipo de informação desejada (novos óbitos, novos casos, óbitos por 100 mil habitantes ou casos por 100 mil habitantes) para visualizar um gráfico interativo com os dados COVID-19 para o estado selecionado.
 
-Fonte de Dados:
+## Fonte de Dados:
 
 Os dados utilizados neste projeto foram obtidos a partir do seguinte repositório no GitHub:
 
 - wcota/covid19br (https://github.com/wcota/covid19br)
-
+  
+## link projeto streamlit:
+https://richardalba-dadoscovid19-pycovid19.streamlit.app/
 Autor: 
 
 Eng. Richard M. Alba
